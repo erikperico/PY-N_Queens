@@ -1,0 +1,1 @@
+Objetivo: el jugador intrduce el tamaño del tablero. El programa a continuación imprimirá el número de commbinaciones posibles (p.e., siempre que el tiempod de espera sea menor a 20 s) y una solución aleatoria. Se utilizan diferentes métodos en función de la dimensión del tablero:
